@@ -21,9 +21,9 @@ def first_challenge
            :attitude => "worried"
          },
          {
-           :name => "Mercutio",
-           :age => "18",
-           :attitude => "hot-headed"
+           name: "Mercutio",
+           age: "18",
+           attitude: "hot-headed"
          }
        ]
      },
@@ -48,9 +48,9 @@ def first_challenge
          :attitude => "confused"
        },
        {
-         :name => "Nurse",
-         :age => "44",
-         :attitude => "worried"
+         name: "Nurse",
+         age: "44",
+         attitude: "worried"
        }
        ]
      }
