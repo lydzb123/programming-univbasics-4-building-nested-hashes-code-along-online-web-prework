@@ -6,10 +6,7 @@ def first_challenge
        :hero => {name:"Romeo", age: "15", status: "alive"},
      },
      :capulet => {:patriarch => {name: "Lady Capulet", age: "51"},
-       :matriarch => {
-         :name => "Lady Capulet",
-         :age => "51"
-       },
+       :matriarch => {name: "Lady Capulet", age: "51"},
        :heroine => {
          :name => "Juliet",
          :age => "15",
