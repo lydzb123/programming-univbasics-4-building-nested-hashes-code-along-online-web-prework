@@ -4,13 +4,8 @@ def first_challenge
        :patriach => {name: "Lord Montague", age: "53"},
        :matriarch => {name: "Lady Montague", age: "54"},
        :hero => {name:"Romeo", age: "15", status: "alive"},
-
      },
-     :capulet => {
-       :patriarch => {
-         :name => "Lady Capulet",
-         :age => "51"
-       },
+     :capulet => {:patriarch => {name: "Lady Capulet", age: "51"},
        :matriarch => {
          :name => "Lady Capulet",
          :age => "51"
