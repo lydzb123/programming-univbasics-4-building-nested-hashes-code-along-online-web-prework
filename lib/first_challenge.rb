@@ -8,7 +8,7 @@ def first_challenge
          :age => "15",
          :status => "alive"
        },
-  
+
      },
      :capulet => {
        :patriarch => {
